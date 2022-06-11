@@ -1,10 +1,10 @@
 ---
-title: About Alembic
+title: Can Be Better
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Can Be Better
+  Low-cost high-precision optical coatings thickness measurement.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "The **Can Be Better** Coating Meter is the first optical coating thickness gauge available at a similar price to capacitive coating thickness gaues, like the Sencon SI9600. In addition to being low-cost compared to every other optical coating thickness gauge, the Coating Meter allows highly-precise repeatable measurements and market-leading reliability, with no need for refractive indices or dry density values from the coating supplier."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
