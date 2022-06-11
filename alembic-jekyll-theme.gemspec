@@ -1,15 +1,15 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "alembic-jekyll-theme"
-  spec.version       = "4.1.0"
-  spec.authors       = ["David Darnes"]
-  spec.email         = ["me@daviddarnes.com"]
+  spec.name          = "can-be-better"
+  spec.version       = "1.0.0"
+  spec.authors       = ["Can Be Better"]
+  spec.email         = ["support@can-be-better.com"]
 
-  spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
-  spec.homepage      = "https://alembic.darn.es"
-  spec.license       = "MIT"
+  spec.summary       = %q{Low-cost high-precision optical coatings thickness measurement.}
+  spec.description   = "The **Can Be Better** Coating Meter is the first optical coating thickness gauge available at a similar price to capacitive coating thickness gaues, like the Sencon SI9600. In addition to being low-cost compared to every other optical coating thickness gauge, the Coating Meter allows highly-precise repeatable measurements and market-leading reliability, with no need for refractive indices or dry density values from the coating supplier."
+  spec.homepage      = "https://can-be-better.com"
+  spec.license       = "(C)"
 
   spec.metadata["plugin_type"] = "theme"
 
