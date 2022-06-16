@@ -51,12 +51,10 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
-    output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
+    title: "Articles" # Needed for Siteleaf
+    feature_text: ""
     feature_image: ""
+    output: true
 
 # 6. Jekyll collections settings
 defaults:
@@ -104,7 +102,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Can Coating Meter
   url: /
-- title: Blog
+- title: Related Articles
   url: /blog/
 
 navigation_footer:
