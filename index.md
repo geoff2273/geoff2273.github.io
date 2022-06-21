@@ -29,7 +29,8 @@ The *Can Coating Meter* meets the needs of the following users
 - You control coating thickness in production by weighing samples and want to speed up your coating measurement
 - You control coating thickness in production using a capacitive coating gauge (Sencon SI9600) and want the benefits of modern high-precision optical coating technology
 - You have an automatic optical coating gauge (Torus Z340, Sencon Film-Scan) and want to be able to verify the measurements when a can fails measurement
-- You have irregular sized cans that automatic gauges are unable to measure
+- You produce irregular sized cans that automatic gauges are unable to measure
+- You are an R&D team and want complete flexability of how you inspect the coating thickness
 - Your existing coating gauge is unreliable, too expensive to maintain, or reached its end-of-life
 #### How is the *Can Coating Meter* so affordable compared to other optical coatings gauges?
 
