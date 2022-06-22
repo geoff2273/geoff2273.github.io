@@ -1,6 +1,6 @@
 ---
 feature_text: |
-  ## Contact
+  ## Contact Us
   Sales and support
 ---
 
