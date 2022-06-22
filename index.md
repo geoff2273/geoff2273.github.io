@@ -37,7 +37,7 @@ The *Can Coating Meter* meets the needs of the following users
 - You are an R&D team and want complete flexability of how you inspect the coating thickness
 - Your existing coating gauge is unreliable, too expensive to maintain, or reached its end-of-life
 
-#### How is the *Can Coating Meter* so affordable compared to other optical coatings gauges?
+#### Why is the *Can Coating Meter* so affordable?
 
 The *Can Coating Meter* uses commercial off-the-shelf hardware, saving the cost of developing expensive custom hardware, and ensuring you have reliable hardware from a market-leading manufacturer. We calibrate the hardware and provide our application-specific software to create the perfect product for optical coating measurement. 
 
