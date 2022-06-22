@@ -1,5 +1,6 @@
 ---
 title: Repeatability is not enough
+excerpt: Coming soon...
 ---
 
 Coming soon...

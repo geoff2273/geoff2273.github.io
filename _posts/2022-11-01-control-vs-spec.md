@@ -1,5 +1,6 @@
 ---
 title: Process "in control" versus product "in spec"
+excerpt: Coming soon...
 ---
 
 Coming soon...
