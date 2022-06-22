@@ -1,5 +1,5 @@
 ---
-title: Process "in control" versus product "in spec"
+title: "in control" or "in spec"
 excerpt: Coming soon...
 ---
 

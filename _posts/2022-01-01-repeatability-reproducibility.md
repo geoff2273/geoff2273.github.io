@@ -1,5 +1,5 @@
 ---
-title: Repeatability versus reproducibility
+title: Repeatability and reproducibility
 excerpt: Coming soon...
 
 ---
