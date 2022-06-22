@@ -1,5 +1,5 @@
 ---
-title: "in control" or "in spec"
+title: *In control* or *in spec*
 excerpt: Coming soon...
 ---
 
