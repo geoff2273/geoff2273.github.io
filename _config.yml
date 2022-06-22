@@ -51,8 +51,8 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: "Articles" # Needed for Siteleaf
-    feature_text: ""
+    title: Articles1234 # Needed for Siteleaf
+    feature_text: 12345678
     feature_image: ""
     output: true
 

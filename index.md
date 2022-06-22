@@ -1,5 +1,4 @@
 ---
-title: Can Coating Meter
 feature_text: |
   ## Can Coating Meter
   Optical coating thickness measurement

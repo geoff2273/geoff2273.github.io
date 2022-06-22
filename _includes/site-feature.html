@@ -1,9 +1,4 @@
 {% assign feature_text = page.feature_text %}
-{% if page.collectionpage %}
-  {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-  {% assign feature_text = collectiondata.feature_text %}
-{% endif %}
-
 {% if feature_text or feature_image %}
   <div class="feature">
     <div class="container  typeset">
