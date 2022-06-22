@@ -104,6 +104,8 @@ navigation_header:
   url: /
 - title: Related Articles
   url: /blog/
+- title: Contact
+  url: /contact/
 
 navigation_footer:
 - title: ""

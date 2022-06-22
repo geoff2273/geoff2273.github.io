@@ -2,8 +2,7 @@
 feature_text: |
   ## Can Coating Meter
   Optical coating thickness measurement
-feature_image: ""
-excerpt: ""
+
 ---
 
 The *Can Coating Meter* is the first optical coating thickness gauge available at a price comparable to capacitive coating thickness gaues, such as the Sencon SI9600. 
