@@ -9,13 +9,6 @@ The *Can Coating Meter* is the first optical coating thickness gauge available a
 
 In addition to being very low-cost, the *Can Coating Meter* allows highly-precise repeatable measurements and market-leading reliability, with no need for refractive indices or dry density values from the coating supplier.
 
-### Pricing
-
-- $9999 (USD)
-- €9499 (EUR)
-- £7999 (GBP)
-
-
 ### Features
 
 - Optical coating thickness gauge
@@ -37,6 +30,12 @@ The *Can Coating Meter* meets the needs of the following users
 - You produce irregular sized cans that automatic gauges are unable to measure
 - You are an R&D team and want complete flexability of how you inspect the coating thickness
 - Your existing coating gauge is unreliable, too expensive to maintain, or reached its end-of-life
+
+### Pricing
+
+- $9999 (USD)
+- €9499 (EUR)
+- £7999 (GBP)
 
 #### Why is the *Can Coating Meter* so affordable?
 
