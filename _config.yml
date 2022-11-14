@@ -51,7 +51,7 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Articles1234 # Needed for Siteleaf
+    title: Can Coating Meter # Needed for Siteleaf
     feature_text: 12345678
     feature_image: ""
     output: true
@@ -79,7 +79,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "" # Site name or title, also used in jekyll-seo-tag
+title: "Can Coating Meter" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/CoatingMeterIcon.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "" # Site url, also used in jekyll-seo-tag
