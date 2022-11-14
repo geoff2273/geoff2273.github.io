@@ -56,7 +56,11 @@ body {
     @include flex-direction(column);
     @include justify-content(center);
   }
-  .p .h2 {
+  .p {
+    margin: auto 0;
+    padding: auto 0;
+  }
+  .h2 {
     margin: auto 0;
     padding: auto 0;
   }
