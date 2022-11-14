@@ -44,8 +44,8 @@ body {
 }
 
 .feature {
-  padding-bottom: 0rem;
-  margin-bottom: 0rem;
+  padding-bottom: .4rem;
+  margin-bottom: 1.6rem;
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
@@ -53,10 +53,12 @@ body {
   .container {
     min-height: 35vh;
     max-width: 60%;
-    padding-bottom: 0rem;
-    margin-bottom: 0rem;
     @include flex-direction(column);
     @include justify-content(center);
+  }
+  .p .h2 {
+    margin: auto 0;
+    padding: auto 0;
   }
 }
 
