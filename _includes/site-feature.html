@@ -4,11 +4,5 @@
     <div class="container  typeset">
       {{ feature_text | markdownify }}
     </div>
-    <div>FIGURE1</div>
-    {% if feature_image %}
-    <div>FIGURE2</div>
-    {% include figure.html image="{{feature_image}}" 
-        caption="Image with caption" width="300" height="800" %}
-    {% endif %}
   </div>
 {% endif %}
