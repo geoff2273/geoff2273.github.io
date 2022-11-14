@@ -1,14 +1,14 @@
 ---
 feature_text: |
   ## Can Coating Meter
-  Optical coating thickness measurement
+  Optical measurement of coating thickness 
 ---
 
 {% include figure.html image="../assets/meter.jpg" width="1280" height="960" %}
 
 The *Can Coating Meter* is the first optical coating thickness gauge available at a price comparable to capacitive coating thickness gauges, such as the Sencon SI9600. 
 
-In addition to being very low-cost, the *Can Coating Meter* allows highly-precise repeatable measurements and market-leading reliability, with no need for refractive indices or dry density values from the coating supplier.
+In addition to being very low-cost, the *Can Coating Meter* makes highly-precise repeatable measurements and market-leading reliability, with no need for refractive indices or dry density values from the coating supplier.
 
 ### Features
 
@@ -42,8 +42,6 @@ The *Can Coating Meter* meets the needs of the following users
 
 #### Why is the *Can Coating Meter* so affordable?
 
-The *Can Coating Meter* uses commercial off-the-shelf hardware, saving the cost of developing expensive custom hardware, and ensuring you have reliable hardware from a market-leading manufacturer. We calibrate the hardware and provide our application-specific software to create the perfect product for optical coating measurement. 
+The *Can Coating Meter* uses commercial off-the-shelf components, avoiding the cost of developing expensive application-specific hardware, and provides the reliability of a market-leading manufacturer. We calibrate the hardware and add our application-specific software to create the perfect product for optical measurement of coating thickness. 
 
 The most expensive component of an optical coating gauge is the spectrometer (some Torus gauges even have two). Our advanced algorithms enable coatings to be measured using a single vis-nir spectrometer even on decorated cans, achieving large cost-savings over longer-wavelength nir spectrometers that are more widely used.
-
-
