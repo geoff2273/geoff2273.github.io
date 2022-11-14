@@ -5,6 +5,7 @@
       {{ feature_text | markdownify }}
     </div>
     {% if feature_image %}
+    <div>FIGURE</div>
     {% include figure.html image="{{feature_image}}" 
         caption="Image with caption" width="300" height="800" %}
     {% endif %}
