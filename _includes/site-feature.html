@@ -1,7 +1,7 @@
 {% assign feature_text = page.feature_text %}
 {% if feature_text or feature_image %}
   <div class="feature">
-    {% if site.logo %}{% include site-logo.html %}{% endif %}
+    <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title | append: ' logo' }}"/>
 
     <div class="container  typeset">
       {{ feature_text | markdownify }}
