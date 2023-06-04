@@ -16,7 +16,7 @@ The *Can Coating Meter* is a high-precision low-cost optical coating thickness g
 - High-precision readings
 - Refractive indices and density are NOT required
 - Measures decorated cans including black ink
-- 18-month service interval
+- 24-month service interval
 - Easy to use
 - Comprehensive documentation
 - Compact dimensions: 360 mm × 260 mm × 160 mm
