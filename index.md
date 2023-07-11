@@ -38,8 +38,6 @@ The most expensive component of an optical coating gauge is the spectrometer. Ou
 
 ### Contact
 
-contact@CanCoatingMeter.com
-
 Whatsapp† +44 7474 453 482
 
 †Number in use for Whatsapp only. Call backs and Zoom/Teams/Webex meetings can be arranged on request.
